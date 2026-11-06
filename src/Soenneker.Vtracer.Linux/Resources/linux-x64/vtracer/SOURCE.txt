@@ -1,0 +1,4 @@
+Release: https://github.com/visioncortex/vtracer/releases/tag/1.0.0-alpha.4
+Version: 1.0.0-alpha.4
+Asset: https://github.com/visioncortex/vtracer/releases/download/1.0.0-alpha.4/vtracer-x86_64-unknown-linux-musl.tar.gz
+SHA256: 2058f611b48ed49497f78883bde47435531e9e17e3a79428432d1528bdb12e2a
